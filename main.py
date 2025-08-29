@@ -47,4 +47,4 @@ for filename in os.listdir(input_folder):
         else:
             shutil.move(filepath, os.path.join("faceless", filename))
 
-print("✅ Sorting    complete. Check 'blur', 'faceless', 'excellent' folders.")
+print("✅ Sorting complete. Check 'blur', 'faceless', 'excellent' folders.")
