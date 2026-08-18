@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pt
+photos/
+blur/
+faceless/
+excellent/
